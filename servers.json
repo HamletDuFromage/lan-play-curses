@@ -1,0 +1,21 @@
+{
+    "servers": [
+        {
+            "name": "Swich Lan Play",
+            "relay": "switch.lan-play.com:11451",
+            "pmtu": "500"
+        },
+        {
+            "name": "Lan Play Reboot",
+            "relay": "lanplay.reboot.ms:11451"
+        },
+        {
+            "relay": "nut.r3n3.at:11451"
+        }
+    ],
+    "last": {
+        "name": "Last Played Server",
+        "relay": "switch.lan-play.com:11451",
+        "pmtu": ""
+    }
+}
