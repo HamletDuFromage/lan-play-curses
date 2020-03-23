@@ -4,7 +4,7 @@ A simple curses GUI for switch-lan-play (https://github.com/spacemeowx2/switch-l
 
 ## Usage
 
-Place your `lan-play client`, `lan-play-curses.py` and `servers.json` in the same directory and launch the script. Run it as root/admin
+Place your `lan-play client`, `lan-play-curses.py` and `servers.json` in the same directory (or edit the path yourself) and launch the script. Run it as root/admin
 
 ```
 $ sudo python3 lan-play-curses.py
