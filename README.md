@@ -15,10 +15,12 @@ In `servers.json`, the name and pmtu fields are optional. Set a pmtu of 500 to p
 
 ![Welcome Screen](https://user-images.githubusercontent.com/61667930/77344354-55e43400-6d33-11ea-8e90-9e66c10189e6.png)
 
-
 ![Servers List](https://user-images.githubusercontent.com/61667930/77343915-ba52c380-6d32-11ea-8c51-a67058763b03.png)
 
 ![Running](https://user-images.githubusercontent.com/61667930/77343906-b8890000-6d32-11ea-9e9d-d05f6fe63767.png)
+
+![Manual edit](https://user-images.githubusercontent.com/61667930/77350276-88465f00-6d3c-11ea-9bcf-c0a4051aa827.png)
+
 
 
 
