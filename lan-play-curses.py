@@ -26,9 +26,10 @@ def statusbar(stdscr):
     
 def welcome_scr(stdscr):
     curses.curs_set(False)
-    stdscr.addstr(1, 0, "1 - Launch latest config")
-    stdscr.addstr(2, 0, "2 - Edit config")
-    stdscr.addstr(3, 0, "3 - Browse servers")
+    stdscr.addstr(1, 0, "Lan Play Curses", curses.A_BOLD)
+    stdscr.addstr(3, 0, "1 - Launch latest config")
+    stdscr.addstr(4, 0, "2 - Edit config")
+    stdscr.addstr(5, 0, "3 - Browse servers")
     k = stdscr.getch()
     if(k == ord('2') or k == ord('3') or k==ord('q')):
         return k
