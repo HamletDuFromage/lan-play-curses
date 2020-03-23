@@ -9,7 +9,7 @@ Place your `lan-play client`, `lan-play-curses.py` and `servers.json` in the sam
 ```
 $ sudo python3 lan-play-curses.py
 ```
-In `servers.json`, the name and pmtu fields are optional. Set a pmtu of 500 to play Animal Crossing.
+In `servers.json`, the name and pmtu fields are optional. Set a pmtu of 500 to play Animal Crossing. Add/remove servers to your liking by following the template.
 
 ## Screenshots
 
